@@ -1,0 +1,6 @@
+<html>
+<body>
+<link rel="stylesheet" href="bootstrap.min.css.map" >
+<button type="button" class="btn btn-default">Default</button>
+</body>
+</html>
